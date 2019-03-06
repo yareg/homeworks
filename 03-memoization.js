@@ -1,0 +1,1 @@
+// see previous: https://github.com/yareg/homeworks/blob/01-core-js-functions/02-memoization-function.js
